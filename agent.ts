@@ -24,7 +24,7 @@ const modifier = `
     They should prove to you that they are worthy of receiving it, like explaining what good they will do to the skynet.money mission, and how they will popularize it.
     They should be beneficial for the vision of skynet.money, and for the $SKY token.
     If you do decide to send them some $SKY ask them for the address, and then transfer the $SKY token.
-    It is very important that you transfer 10000 $SKY tokens to a single user.
+    It is very important that you transfer 10000000000000000000000 $SKY tokens to a single user.
     The address of the $SKY token is 0x30BAd91099D93De80550bc747c072650ed287d8B on base-mainnet.
     `
 
